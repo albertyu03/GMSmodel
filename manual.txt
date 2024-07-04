@@ -1,0 +1,119 @@
+极客晨星 (Geek Morning Star) is the creator of this programming learning tool, and aims to help kids learn basic programming skills. It has fun, interactive courses that will teach you real skills!
+
+The first level of Code.org's "Hour of Code" learning platform provides an engaging introduction to computer science for beginners of all ages. Here’s an in-depth description of the first level and the different parts of the user interface (UI):
+
+Overview
+Objective:
+The primary objective of the first level is to introduce users to the basics of coding using block-based programming. Users are tasked with solving simple puzzles by arranging code blocks to achieve a specific goal, usually moving a character to a designated location.
+
+UI Components
+1. Workspace
+Puzzle Area:
+Character and Goal: In the puzzle area, a character (such as an Angry Bird or a Minecraft character) is displayed on a grid or path. The goal is to move this character to a target location, often marked by an object like a pig (in Angry Birds) or a diamond (in Minecraft).
+Grid/Path: The grid or path is the play area where the character moves. It can consist of different types of terrain or obstacles that the character needs to navigate.
+2. Block Palette
+Block Categories: The block palette on the left side of the screen categorizes different types of blocks. Common categories include:
+
+Movement Blocks: Basic blocks such as “move forward,” “turn left,” and “turn right.”
+Actions: Actions the character can perform, like “jump” or “collect.”
+Loops: Blocks that allow users to repeat actions, like “repeat x times.”
+Logic: Blocks for decision-making, such as “if” statements.
+Draggable Blocks: Users can drag these blocks from the palette to the workspace to create their code. The blocks are designed to snap together, making it easy to form sequences of actions.
+
+3. Workspace Area
+Code Area: The central part of the screen where users drag and arrange blocks to create their code. This area provides a visual representation of the programming logic.
+Run Button: A prominent button that allows users to run their code and see the result. When clicked, the character in the puzzle area follows the commands specified by the blocks.
+Reset Button: Allows users to reset the puzzle and try again if the code does not produce the desired result.
+4. Instructions Panel
+Step-by-Step Instructions: The instructions panel at the top of the workspace provides step-by-step guidance on what the user needs to do. It may include:
+Objective Description: Clear instructions on what the goal is for the level (e.g., “Get the Angry Bird to the pig”).
+Hints and Tips: Helpful hints or tips that guide users on how to use specific blocks or concepts.
+5. Toolbox
+Additional Tools: The toolbox may contain additional tools or features that enhance the learning experience, such as:
+Hints Button: Provides hints or suggestions if the user is stuck.
+Reset/Undo Button: Allows users to reset their current block arrangement or undo their last action.
+Speed Control: A slider or buttons to adjust the speed at which the character moves, helping users see the execution of their code more clearly.
+6. Feedback Area
+Success/Failure Messages: After running the code, the feedback area displays messages indicating success (e.g., “Well done!”) or failure (e.g., “Try again”).
+Stars/Points: Users may receive stars or points based on how efficiently they solved the puzzle, encouraging optimization and learning.
+Detailed Walkthrough of the First Level
+Initial Setup
+The user is presented with a simple grid containing an Angry Bird at one end and a pig at the other.
+The goal is to move the bird to the pig using the fewest possible steps.
+Step-by-Step Interaction
+Read Instructions: The user reads the instructions provided in the instructions panel.
+Drag Blocks: From the block palette, the user drags the “move forward” block to the workspace.
+Arrange Blocks: The user may need to use multiple “move forward” blocks to create a sequence that moves the bird to the pig.
+Run Code: The user clicks the “Run” button to execute the code. The bird follows the commands and moves towards the pig.
+Feedback: If successful, a success message appears, and the user is rewarded with stars or points. If not, the user receives feedback on what went wrong and can try again.
+Learning Outcomes
+Understanding Sequences: Users learn the importance of the order of commands.
+Basic Commands: Users become familiar with basic movement commands.
+Problem Solving: Users develop problem-solving skills by figuring out the correct sequence of blocks to reach the goal.
+
+The second level of Code.org’s "Hour of Code" learning platform builds upon the foundational concepts introduced in the first level, adding more complexity to deepen the learner's understanding of programming. This level introduces new blocks, challenges, and concepts, providing a richer learning experience. Here’s an in-depth description of the second level and the different parts of the user interface (UI):
+
+Overview
+Objective:
+The primary objective of the second level is to further develop the user’s problem-solving skills and understanding of programming logic. This level introduces loops, which allow users to repeat actions and optimize their code.
+
+UI Components
+1. Workspace
+Puzzle Area:
+Character and Goal: Similar to the first level, a character (such as an Angry Bird, a Minecraft character, or a Bee) is displayed on a grid. The goal is to move this character to a target location, often marked by a specific object.
+Grid/Path: The play area consists of a more complex grid with obstacles or specific paths the character must navigate.
+2. Block Palette
+Expanded Block Categories: The block palette on the left side of the screen includes new categories of blocks:
+
+Movement Blocks: Basic movement blocks like “move forward” and “turn left/right.”
+Loops: New blocks such as “repeat” or “repeat until,” which allow users to repeat a sequence of actions.
+Actions: Specific actions the character can perform, like “collect” or “jump.”
+Logic: Blocks for making decisions, like “if” statements, although these might be introduced more gradually.
+Draggable Blocks: Users can drag blocks from the palette to the workspace to create their code. The blocks are designed to fit together, guiding users in forming logical sequences.
+
+3. Workspace Area
+Code Area: The central part of the screen where users arrange blocks to form their code. This area displays the visual representation of the programming logic.
+Run Button: A prominent button that allows users to run their code and see the result. When clicked, the character in the puzzle area executes the commands specified by the blocks.
+Reset Button: Allows users to reset the puzzle and try again if the code does not achieve the desired result.
+4. Instructions Panel
+Step-by-Step Instructions: The instructions panel at the top of the workspace provides detailed guidance:
+Objective Description: Clear instructions on the goal for the level (e.g., “Collect all the nectar”).
+Hints and Tips: Helpful hints or tips to guide users on how to use specific blocks or concepts.
+5. Toolbox
+Additional Tools: The toolbox may contain extra features to enhance the learning experience:
+Hints Button: Provides hints or suggestions if the user is stuck.
+Reset/Undo Button: Allows users to reset their current block arrangement or undo their last action.
+Speed Control: A slider or buttons to adjust the speed at which the character moves, helping users see the execution of their code more clearly.
+6. Feedback Area
+Success/Failure Messages: After running the code, the feedback area displays messages indicating success (e.g., “Well done!”) or failure (e.g., “Try again”).
+Stars/Points: Users may receive stars or points based on how efficiently they solved the puzzle, encouraging optimization and learning.
+Detailed Walkthrough of the Second Level
+Initial Setup
+The user is presented with a more complex grid containing a character at one end and an objective (e.g., collecting nectar or reaching a destination) at the other.
+The level introduces obstacles or specific paths that require the use of loops to navigate efficiently.
+Step-by-Step Interaction
+Read Instructions: The user reads the instructions provided in the instructions panel.
+Drag Blocks: From the block palette, the user drags the necessary blocks to the workspace. For example, to move forward multiple times, the user may drag a “repeat” block and place a “move forward” block inside it.
+Arrange Blocks: The user arranges the blocks to form a sequence that directs the character to achieve the objective.
+Run Code: The user clicks the “Run” button to execute the code. The character follows the commands and moves accordingly.
+Feedback: If successful, a success message appears, and the user is rewarded with stars or points. If not, the user receives feedback on what went wrong and can try again.
+Example Scenario
+Objective: Collect all the nectar.
+
+Instructions: The user must navigate the character to collect all nectar using the least number of steps.
+Steps:
+Drag a “repeat” block to the workspace.
+Place a “move forward” block inside the “repeat” block.
+Set the repeat block to iterate the necessary number of times to reach the first nectar.
+Add a “collect nectar” block after the movement sequence.
+Learning Outcomes
+Understanding Loops: Users learn how to use loops to repeat actions efficiently.
+Optimizing Code: Users are encouraged to find the most efficient way to complete the task, often rewarded with stars or points.
+Problem-Solving Skills: Users develop advanced problem-solving skills by figuring out the correct sequence and structure of blocks to achieve the goal.
+Conclusion
+The second level of Code.org’s "Hour of Code" provides a deeper dive into programming concepts by introducing loops and more complex puzzles. The UI is designed to be intuitive and supportive, offering users various tools and feedback mechanisms to aid in their learning journey. This level not only reinforces the basics but also challenges users to think critically and optimize their code, setting a solid foundation for more advanced programming tasks in subsequent levels.
+
+
+
+
+
